@@ -125,16 +125,6 @@ You can then query and analyze the dataset directly from your MySQL client.
 * Analyze **location-based speed trends**
 * Support **urban planning** decisions with data-driven insights
 
----
-
-## 💼 Resume Bullet Points
-
-* Engineered an **end-to-end data pipeline** in Python to analyze and store time-series traffic data from simulated sources.
-* Designed and implemented a **normalized MySQL database schema** to manage and query traffic data efficiently.
-* Applied **pandas-based data cleaning and feature engineering** to transform raw data into actionable metrics.
-* Built a **scalable ETL system** capable of identifying congestion, predicting peak hours, and supporting data-driven decisions for city planners.
-
----
 
 ## 📁 Project Structure
 
