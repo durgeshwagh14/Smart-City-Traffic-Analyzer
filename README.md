@@ -131,7 +131,7 @@ You can then query and analyze the dataset directly from your MySQL client.
 ```
 smart_city_traffic_analyzer/
 │
-├── traffic_analyzer_etl.py      # Main ETL script
+├── main.py                      # Main ETL script
 ├── schema.sql                   # MySQL schema definition
 ├── traffic_data.csv             # Generated dataset (after running script)
 ├── README.md                    # Project documentation
